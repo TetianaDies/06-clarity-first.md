@@ -8,7 +8,20 @@ https://miro.com/welcomeonboard/T4fCjt1UZoOywhyelvhaOxgAyNAXVB4SN3JBMrYA5RAoIctu
 
 
 # Voice and tone
+Voice:  confident, educated, and inspirational.
+Tone: Formal (academic), but friendly.
+
 # Outline
-Notes — optional
+
+
+
+# Notes
+Book design
+
+
+
 # Keywords
+Make illustration
+
+
 # References
