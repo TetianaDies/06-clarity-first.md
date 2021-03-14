@@ -9,11 +9,12 @@ https://miro.com/welcomeonboard/T4fCjt1UZoOywhyelvhaOxgAyNAXVB4SN3JBMrYA5RAoIctu
 
 # Voice and tone
 Voice:  confident and inspirational.
+
 Tone: Formal (academic), but friendly.
 
 # Outline
 1. A detective story for young people, written with humor
-2. The Book prototype will be illustrated in the style of a photo collage
+2. The book prototype will be illustrated in the style of a photo collage
 3. Improve fan communication with the writer, web design
 4. It will be a series of stories, edition of books
 5. Promotion of the book with the help of social networks, press materials, meetings with the author
@@ -40,4 +41,5 @@ Web design
 
 # References
 https://pop-pap.cz/obchod/
+
 http://www.zlatastuha.cz/cs/archiv#cat3
