@@ -10,8 +10,8 @@ Mind map
 </details>
 
 
-<img src="/img/thesis-mind-map.png" width="900">
-https://miro.com/welcomeonboard/T4fCjt1UZoOywhyelvhaOxgAyNAXVB4SN3JBMrYA5RAoIctuQH2nIwk0yAwZs6fv
+
+
 
 
 # Voice and tone
