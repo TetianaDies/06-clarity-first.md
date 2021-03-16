@@ -23,20 +23,33 @@ Tone: Formal (academic), but friendly.
 
 
 # Notes
+
 Project
+
 Prototype book
+
 Book making
+
 A detective story
+
 Photo collage
+
 Marketing
 
 # Keywords
+
 Prototype book
+
 Edition of books
+
 A detective story
+
 Illustration
+
 Cover design
+
 Promotion
+
 Web design
 
 # References
