@@ -15,8 +15,8 @@ Tone: Formal (academic), but friendly.
 # Outline
 1. A detective story for young people, written with humor
 2. The book prototype will be illustrated in the style of a photo collage
-3. Improve fan communication with the writer, web design
-4. It will be a series of stories, edition of books
+3. It will be a series of stories, edition of books
+4. Improve fan communication with the writer, web design
 5. Promotion of the book with the help of social networks, press materials, meetings with the author
 6. In theoretical part of thesis I will write about book making, how to choose book format and typography, book cover design
 
