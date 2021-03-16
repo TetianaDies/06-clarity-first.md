@@ -36,6 +36,8 @@ Photo collage
 
 Marketing
 
+Web design
+
 # Keywords
 
 Prototype book
@@ -50,7 +52,7 @@ Cover design
 
 Promotion
 
-Web design
+
 
 # References
 https://pop-pap.cz/obchod/
