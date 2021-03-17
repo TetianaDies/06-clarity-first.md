@@ -47,7 +47,6 @@ Web design
 
 # Keywords
 
-Prototype book
 
 Edition of books
 
